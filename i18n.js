@@ -4,6 +4,7 @@ const resources = {
     nav_how:         "¿Cómo funciona?",
     nav_plans:       "Planes",
     nav_contact:     "Contáctanos",
+    nav_videos:          "Videos",
     btn_signup:      "Crear Cuenta",
 
     hero_title_1:    "Impulsa tu negocio",
@@ -114,6 +115,14 @@ const resources = {
     footer_privacy:       "Política de privacidad",
     footer_cookies:       "Política de cookies",
     footer_copy:          "© 2026 Impulso360. Todos los derechos reservados.",
+
+    section_videos:       "VIDEOS",
+    videos_title:         "Conoce cómo funciona Impulso360",
+    videos_desc:          "Mira estos videos para entender cómo nuestra plataforma puede ayudarte a organizar tus citas, clientes y recordatorios de manera sencilla.",
+    video_1_title:        "Conoce lo que ofrece Impulso360",
+    video_1_desc:         "Mira el siguiente video para conocer qué ofrece Impulso360.",
+    video_2_title:        "Conoce a nuestro equipo",
+    video_2_desc:         "Mira el siguiente video para conocer a quienes conforman nuestro equipo.",
   },
 
   en: {
@@ -121,6 +130,7 @@ const resources = {
     nav_home:        "Home",
     nav_how:         "How it works?",
     nav_plans:       "Plans",
+    nav_videos:      "Videos",
     nav_contact:     "Contact us",
     btn_signup:      "Sign Up",
 
@@ -157,7 +167,13 @@ const resources = {
     feature_3_text:    "Send reminders to reduce no-shows.",
     feature_4_title:   "Business overview panel",
     feature_4_text:    "Check your metrics, revenue, and performance.",
-
+    section_videos:       "VIDEOS",
+    videos_title:         "See how Impulso360 works",
+    videos_desc:          "Watch these videos to understand how our platform can help you organize your appointments, clients, and reminders in a simple way.",
+    video_1_title:        "See what Impulso360 offers",
+    video_1_desc:         "Watch this video to learn what Impulso360 offers.",
+    video_2_title:        "Meet our team",
+    video_2_desc:         "Watch this video to meet the people behind our team.",
     section_plans:        "PLANS",
     plans_title:          "Choose the ideal plan to organize your business",
     plans_desc:           "Simple plans for entrepreneurs and micro-businesses who want to manage appointments, clients, and reminders without the hassle.",
